@@ -1,14 +1,14 @@
 {
-  "name": "@pooltogether/foundry-template",
+  "name": "@generationsoftware/ring-buffer-lib",
   "version": "1.0.0",
-  "description": "Template to kickstart a Foundry project",
+  "description": "Ring Buffer Solidity Library",
   "author": {
-    "name": "PoolTogether Inc.",
-    "url": "https://github.com/pooltogether"
+    "name": "G9 Software Inc.",
+    "url": "https://github.com/GenerationSoftware"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pooltogether/foundry-template.git"
+    "url": "git+https://github.com/GenerationSoftware/ring-buffer-lib.git"
   },
   "scripts": {
     "clean": "forge clean",
